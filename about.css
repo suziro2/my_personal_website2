@@ -19,7 +19,7 @@
     left: -250px;
     width: 250px;
     height: 100%;
-    background: #6e6ca5;
+    background: #100d44;
     transition: all .5s ease;
     
   }
@@ -90,9 +90,8 @@
   }
 
   table {
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
-    
     background: none;
     
 
